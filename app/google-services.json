@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864832163477",
+    "project_id": "info-pilem",
+    "storage_bucket": "info-pilem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864832163477:android:e75bdb94978fbafa92959c",
+        "android_client_info": {
+          "package_name": "com.jundi.infopilem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZrrjDfiXaI2Pvkk1PJulqxYVJSpWMU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
